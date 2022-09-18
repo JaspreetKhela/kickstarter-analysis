@@ -1,1 +1,10 @@
 .DS_Store
+
+# Word temporary
+~$*.doc*
+
+# Excel temporary
+~$*.xls*
+
+# PowerPoint temporary
+~$*.ppt*
