@@ -75,7 +75,14 @@ Many challanges were encountered and solved as described below:
 
 ## Results
 
+### Conclusions from Graph 1.0
 * Two conclusions that I can draw about the outcomes based on launch date are that theater campaigns are most likely to succeed if they are launched in the middle of year and theater campaigns that are launched near the beginning/end of a year have similar probabilities of succeeding as they do of failing.
+
+### Conclusions from Graph 2.0
 * Two conclusions that I can draw about campaign outcomes based on funding goals is that the most successful theater play campaigns have funding goals that are less than $1,000 or between $35,000 and $40,000, and theater play campaigns are more likely to fail than succeed if the funding goals are between $15,000 to $35,000 or between $40,000 and $50,000.
+
+### Limitations
 * A limitation of this dataset is that there are only 4114 rows of data, a subset - 1393 rows - of which were used for the theater campaigns analysis; consequently, it is not a large enough sample size of data to arrive at any definitive conclusions. Additionally, this dataset may be outdated in 2022 since its data was collected many years ago.
+
+### Future Analysis
 * Some other possible tables and/or graphs that can be created are theater outcomes based on country, duration of the campaigns, staff picks, and spotlight.
